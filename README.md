@@ -1,2 +1,2 @@
 # hello-wrod
-This is my first GIT article.
+This is my first GIT library.
